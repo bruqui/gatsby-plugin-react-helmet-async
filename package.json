@@ -1,16 +1,17 @@
 {
-  "name": "@rhysforyou/gatsby-plugin-react-helmet-async",
+  "name": "@bruqui/gatsby-plugin-react-helmet-async",
   "version": "0.1.1",
   "description": "Use React Helmet Async with your Gatsby site",
   "main": "index.js",
-  "homepage": "https://github.com/rhysforyou/gatsby-plugin-react-helmet-async",
-  "repository": "https://github.com/rhysforyou/gatsby-plugin-react-helmet-async.git",
-  "author": "Rhys Powell <rhys@rpowell.me>",
+  "homepage": "https://github.com/bruqui/gatsby-plugin-react-helmet-async",
+  "repository": "https://github.com/bruqui/gatsby-plugin-react-helmet-async.git",
+  "author": "Bruce Smith",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
     "react",
-    "react-helmet"
+    "react-helmet",
+    "react-helmet-async"
   ],
   "license": "MIT",
   "private": false,
@@ -32,6 +33,6 @@
   },
   "peerDependencies": {
     "gatsby": "2.x",
-    "react-helmet-asynx": "0.2.x"
+    "react-helmet-async": "0.2.x"
   }
 }
