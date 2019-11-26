@@ -1,6 +1,6 @@
 {
   "name": "@bruqui/gatsby-plugin-react-helmet-async",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Use React Helmet Async with your Gatsby site",
   "main": "index.js",
   "homepage": "https://github.com/bruqui/gatsby-plugin-react-helmet-async",
